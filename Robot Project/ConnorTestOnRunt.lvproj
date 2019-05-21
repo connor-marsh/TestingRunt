@@ -120,8 +120,9 @@ AddOutputFilter chunkFilter
 		<Item Name="Autonomous.vi" Type="VI" URL="../Autonomous.vi"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="SubSystems.vi" Type="VI" URL="../SubSystems.vi"/>
-		<Item Name="OneShotPulse.vi" Type="VI" URL="../OneShotPulse.vi"/>
+		<Item Name="OneShotPulseMe.vi" Type="VI" URL="../OneShotPulseMe.vi"/>
 		<Item Name="Map.vi" Type="VI" URL="../Map.vi"/>
+		<Item Name="OneShotPulse.vi" Type="VI" URL="../../../../Documents/LabVIEW Data/Projects/FRC-2019/Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Command Status Info.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Framework/Command Status Info.ctl"/>
